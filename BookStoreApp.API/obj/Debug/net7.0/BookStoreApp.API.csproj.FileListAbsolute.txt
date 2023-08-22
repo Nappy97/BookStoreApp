@@ -222,3 +222,16 @@ D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API
 D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Expressions.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+D:\side_project\Csharp\BlazorWebAssembly\BookStore\BookStoreApp\BookStoreApp.API\bin\Debug\net7.0\Serilog.Sinks.Seq.dll
